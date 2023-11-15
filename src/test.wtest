@@ -5,5 +5,5 @@ test "felicidad" {
 }
 
 test "riley empieza alegre"{
-	assert.equals(alegria, riley.emocionDominante())
+	assert.equals(alegria, riley.emocionDominanteRiley())
 }
